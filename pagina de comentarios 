@@ -1,0 +1,18 @@
+para criar link absoluto
+ex: <!--<a href="https://google.com.br">exemplo do google</a>-->
+<!--Outros recursos para formatação de texto
+<p><i>italico</i></p> 
+    <u>underline</u><br>
+    <p><small>small</small></p>
+    <p><del>R$500</del></p>
+    <p>tag sup 10<sup>3</sup></p>
+    <p>tag sub 10<sub>3</sub></p>
+-->
+///////
+Esse exemplo a seguir abre uma nova pagina fechando a atual.
+<!--<a href="https://ufsbrothers.blogspot.com/">abrir link na mesma aba</a>-->
+///////
+target="_blank" é utilizado para abrir o link em uma nova aba mantendo a atual
+<!--<a href="https://ufsbrothers.blogspot.com/" target="_blank">abrir link em nova aba</a>-->
+//////
+
