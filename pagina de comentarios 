@@ -1,7 +1,9 @@
 para criar link absoluto
 ex: <!--<a href="https://google.com.br">exemplo do google</a>-->
-<!--Outros recursos para formatação de texto
-<p><i>italico</i></p> 
+///////
+
+Outros recursos para formatação de texto
+<!--<p><i>italico</i></p> 
     <u>underline</u><br>
     <p><small>small</small></p>
     <p><del>R$500</del></p>
@@ -14,5 +16,12 @@ Esse exemplo a seguir abre uma nova pagina fechando a atual.
 ///////
 target="_blank" é utilizado para abrir o link em uma nova aba mantendo a atual
 <!--<a href="https://ufsbrothers.blogspot.com/" target="_blank">abrir link em nova aba</a>-->
+//////
+tag utilizada para inserir imagem.
+<!--( <img src="" alt=""><br> ) e atributos de imagens como tamanho ( windth="300" ) -->
+    ex:
+    <!--<img src="https://imgs.search.brave.com/xqJW2u5QdAz8gaKaskNhVIokjCZJeCbaP3sayIeykSk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jb2xv/cmluZG8ub3JnL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzEx/L2NhdmVpcmEtdG9j/YW5kby5qcGc" width="100"> 
+    -->
+    sendo <!--width="100"--> usado para ajustar tamanho da imagem
 //////
 
